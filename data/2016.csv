@@ -1,4 +1,4 @@
-Country,Region,Happiness Rank,Happiness Score,Lower Confidence Interval,Upper Confidence Interval,Economy (GDP per Capita),Family,Health (Life Expectancy),Freedom,Trust (Government Corruption),Generosity,Dystopia Residual
+Country,Region,Happiness Rank,Happiness,Lower Confidence Interval,Upper Confidence Interval,GDP,Family,Health,Freedom,Trust (Government Corruption),Generosity,Dystopia Residual
 Denmark,Western Europe,1,7.526,7.46,7.592,1.44178,1.16374,0.79504,0.57941,0.44453,0.36171,2.73939
 Switzerland,Western Europe,2,7.509,7.428,7.59,1.52733,1.14524,0.86303,0.58557,0.41203,0.28083,2.69463
 Iceland,Western Europe,3,7.501,7.333,7.669,1.42666,1.18326,0.86733,0.56624,0.14975,0.47678,2.83137
@@ -26,7 +26,7 @@ Chile,Latin America and Caribbean,24,6.705,6.615,6.795,1.2167,0.90587,0.81883,0.
 Panama,Latin America and Caribbean,25,6.701,6.601,6.801,1.18306,0.98912,0.70835,0.48927,0.08423,0.2418,3.00559
 Argentina,Latin America and Caribbean,26,6.65,6.56,6.74,1.15137,1.06612,0.69711,0.42284,0.07296,0.10989,3.12985
 Czech Republic,Central and Eastern Europe,27,6.596,6.515,6.677,1.30915,1.00793,0.76376,0.41418,0.03986,0.09929,2.96211
-United Arab Emirates,Middle East and Northern Africa,28,6.573,6.494,6.652,1.57352,0.87114,0.72993,0.56215,0.35561,0.26591,2.21507
+UAE,Middle East and Northern Africa,28,6.573,6.494,6.652,1.57352,0.87114,0.72993,0.56215,0.35561,0.26591,2.21507
 Uruguay,Latin America and Caribbean,29,6.545,6.456,6.634,1.18157,1.03143,0.72183,0.54388,0.21394,0.18056,2.67139
 Malta,Western Europe,30,6.488,6.409,6.567,1.30782,1.09879,0.80315,0.54994,0.17554,0.56237,1.99032
 Colombia,Latin America and Caribbean,31,6.481,6.384,6.578,1.03032,1.02169,0.59659,0.44735,0.05399,0.15626,3.17471
@@ -41,7 +41,7 @@ Guatemala,Latin America and Caribbean,39,6.324,6.213,6.435,0.83454,0.87119,0.540
 Suriname,Latin America and Caribbean,40,6.269,6.073,6.465,1.09686,0.77866,0.50933,0.52234,0.12692,0.16665,3.06852
 Kuwait,Middle East and Northern Africa,41,6.239,6.154,6.324,1.61714,0.87758,0.63569,0.43166,0.23669,0.15965,2.28085
 Bahrain,Middle East and Northern Africa,42,6.218,6.128,6.308,1.44024,0.94397,0.65696,0.47375,0.25772,0.17147,2.27405
-Trinidad and Tobago,Latin America and Caribbean,43,6.168,5.95,6.386,1.32572,0.98569,0.52608,0.48453,0.01241,0.31935,2.51394
+Trinidad & Tobago,Latin America and Caribbean,43,6.168,5.95,6.386,1.32572,0.98569,0.52608,0.48453,0.01241,0.31935,2.51394
 Venezuela,Latin America and Caribbean,44,6.084,5.973,6.195,1.13367,1.03302,0.61904,0.19847,0.08304,0.0425,2.97468
 Slovakia,Central and Eastern Europe,45,6.078,5.996,6.16,1.27973,1.08268,0.70367,0.23391,0.02947,0.13837,2.61065
 El Salvador,Latin America and Caribbean,46,6.068,5.967,6.169,0.8737,0.80975,0.596,0.37269,0.10613,0.08877,3.22134
@@ -85,7 +85,7 @@ China,Eastern Asia,83,5.245,5.199,5.291,1.0278,0.79381,0.73561,0.44012,0.02745,0
 Bhutan,Southern Asia,84,5.196,5.138,5.254,0.8527,0.90836,0.49759,0.46074,0.1616,0.48546,1.82916
 Kyrgyzstan,Central and Eastern Europe,85,5.185,5.103,5.267,0.56044,0.95434,0.55449,0.40212,0.04762,0.38432,2.28136
 Serbia,Central and Eastern Europe,86,5.177,5.083,5.271,1.03437,0.81329,0.6458,0.15718,0.04339,0.20737,2.27539
-Bosnia and Herzegovina,Central and Eastern Europe,87,5.163,5.063,5.263,0.93383,0.64367,0.70766,0.09511,0,0.29889,2.48406
+Bosnia & Herzegovina,Central and Eastern Europe,87,5.163,5.063,5.263,0.93383,0.64367,0.70766,0.09511,0,0.29889,2.48406
 Montenegro,Central and Eastern Europe,88,5.161,5.055,5.267,1.07838,0.74173,0.63533,0.15111,0.12721,0.17191,2.25531
 Dominican Republic,Latin America and Caribbean,89,5.155,5.037,5.273,1.02787,0.99496,0.57669,0.52259,0.12372,0.21286,1.69626
 Morocco,Middle East and Northern Africa,90,5.151,5.058,5.244,0.84058,0.38595,0.59471,0.25646,0.08404,0.04053,2.94891
